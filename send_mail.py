@@ -3,7 +3,7 @@ import csv
 import yagmail
 import time
 
-USER = os.getenv('', 'vogoviga@gmail.com')
+USER = os.getenv('', 'abc@gmail.com')
 PASSWORD = os.getenv('', 'Test1111')
 MAIL_DOMAIN = os.getenv('', '@gmail.com')
 NUM_OF_MAILS = os.getenv('', '20')
